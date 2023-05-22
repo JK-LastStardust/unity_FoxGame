@@ -1,0 +1,4 @@
+repository "FoxGame@ssl://jk_2048@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/2397079267" 
+     
